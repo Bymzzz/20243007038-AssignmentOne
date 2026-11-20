@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="string_array_images">
-        <item> img_btn_facilities </item>
-        <item> img_btn_events </item>
-        <item> img_btn_clubs </item>
-        <item> img_btn_support </item>
-    </string-array>
+<string-array name="string_array_images">
+    <item> img_btn_facilities </item>
+    <item> img_btn_events </item>
+    <item> img_btn_clubs </item>
+    <item> img_btn_support </item>
+</string-array>
 
-    <string-array name="string_array_titles">
-        <item> Hamilton &amp; Tauranga Facilities</item>
-        <item> School or Divisional Engagement Events </item>
-        <item> Discover New Interests </item>
-        <item> Student Support Services </item>
-    </string-array>
+<string-array name="string_array_titles">
+    <item> Hamilton &amp; Tauranga Facilities</item>
+    <item> School or Divisional Engagement Events </item>
+    <item> Discover New Interests </item>
+    <item> Student Support Services </item>
+</string-array>
 
-    <string-array name="string_array_content">
+<string-array name="string_array_content">
         <item>
              Hamilton Facilities\n
             • Indoor Courts: We have two indoor courts on campus, including UniRec\'s Sports Hall and the School of Education Court.\n
@@ -34,7 +34,7 @@
             • Tauranga Pools: Staff and students are eligible for a 20% discount at Tauranga Pools which have five locations across Tauranga including Baywave, Otumoetai Pool, Greerton Aquatic &amp; Leisure Centre, Memorial Pool, and Mount Hot Pools (non-resident adult entry price).
         </item>
 
-        <item>
+    <item>
             School or Divisional Engagement Events\n
             School or Faculty Engagement Events offer a valuable opportunity for prospective students and their whānau to dive deeper into their academic interests. These events provide tailored information about the specific subject areas that students are passionate about, helping them make informed decisions about their future studies. Students and parents have the chance to meet with faculty staff directly, allowing for personal connections and discussions about programmes, courses, and career pathways.\n\n
             Event &amp; Date:\n
@@ -52,7 +52,7 @@
             • Nerdfest | Thursday, 30 October
         </item>
 
-        <item>
+    <item>
             1. Animal Rights &amp; Climate Justice: We take action in a variety of ways on campus to promote veganism and a plant-based food system for the sake of animals and the climate. If you’re interested in animal rights and climate justice don’t hesitate to reach out. Contact: animalrights.uow@gmail.com\n\n
             2. We are the uni students &amp; young adults of ARISE Church. We’re all about doing life together! Whether you’re at uni, at work, or at play this is the place for you. We are passionate about Jesus and helping serve our community. Email: hamilton@arisechurch.com\n\n
             3. The purpose of the Asian Law Student Association (ALSA) is to provide an environment for Asian law students to foster community and create a network of support within the law school. ALSA will aim to share our diverse experiences and increase representation, education and awareness of Asian issues in New Zealand Law and society. One of our main objectives is to ensure that Asian students have guidance and support throughout their journey through Te Piringa – Faculty of Law. To further this mission ALSA hosts a range of social and academic events including, our coveted Industry Mentor Programme, Graduate and Lawyer Panel events and a multitude of Mixers throughout the year to ensure all our students can socialise and de-stress from the daily turbulence of law school. Our friendly team is available all day on Tuesdays and Thursdays at N.3.03 in the Law building. You can flick us an email at waikatoalsa@gmail.com.\n\n
@@ -123,7 +123,7 @@
             68. The Young Nats are made up of thousands of members and supporters across the country who work hard to make a difference for young New Zealanders. Email: youngnats@national.org.nz
                     </item>
 
-        <item>
+    <item>
             On this page\n
             Accessibility Services\n
             Careers &amp; Employability\n
@@ -211,7 +211,7 @@
             We are on Facebook and Instagram - @pacificatwaikato. Give us a follow to stay updated on events and services that have been designed for your success.\n\n\n
         </item>
 
-    </string-array>
+</string-array>
 
 
 </resources>
