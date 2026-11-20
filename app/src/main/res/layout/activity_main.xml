@@ -59,6 +59,7 @@
                     android:scaleType="fitCenter"
                     android:background="@drawable/button_topic_background"
                     android:backgroundTint="@null"
+                    android:onClick="onFacilitiesClick"
                     android:src="@drawable/img_btn_facilities" />
 
                 <TextView
@@ -84,6 +85,7 @@
                     android:scaleType="fitCenter"
                     android:background="@drawable/button_topic_background"
                     android:backgroundTint="@null"
+                    android:onClick="onEventsClick"
                     android:src="@drawable/img_btn_events" />
 
                 <TextView
@@ -118,6 +120,7 @@
                     android:backgroundTint="@null"
                     android:contentDescription="@string/topic_clubs"
                     android:scaleType="fitCenter"
+                    android:onClick="onClubsClick"
                     android:src="@drawable/img_btn_clubs" />
 
                 <TextView
@@ -143,6 +146,7 @@
                     android:backgroundTint="@null"
                     android:contentDescription="@string/topic_support"
                     android:scaleType="fitCenter"
+                    android:onClick="onSupportClick"
                     android:src="@drawable/img_btn_support" />
 
                 <TextView
