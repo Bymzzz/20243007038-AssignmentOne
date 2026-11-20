@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AssignmentOne</string>
+    <string name="app_name">CampusLife</string>
     <string name="home_welcome">Welcome to\nCampus life! Your\nPocket Guide to\nUniversity of Waikato</string>
     <string name="topic_facilities">Facilities</string>
     <string name="topic_events">Events</string>
