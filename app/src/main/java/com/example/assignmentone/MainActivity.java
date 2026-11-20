@@ -1,5 +1,5 @@
 package com.example.assignmentone;
-
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
@@ -35,27 +35,27 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 
+
     public void onFacilitiesClick(View view) {
-        Toast.makeText(this,
-                R.string.facilities_clicked,
-                Toast.LENGTH_SHORT).show();
+        openDetail(0);
     }
 
     public void onEventsClick(View view) {
-        Toast.makeText(this,
-                R.string.events_clicked,
-                Toast.LENGTH_SHORT).show();
+        openDetail(1);
     }
 
     public void onClubsClick(View view) {
-        Toast.makeText(this,
-                R.string.clubs_clicked,
-                Toast.LENGTH_SHORT).show();
+        openDetail(2);
     }
 
     public void onSupportClick(View view) {
-        Toast.makeText(this,
-                R.string.support_clicked,
-                Toast.LENGTH_SHORT).show();
+        openDetail(3);
+    }
+
+    // Open the detail screen with the selected topic index.
+    private void openDetail(int topicIndex) {
+        Intent intent = new Intent(this, DetailActivity.class);
+        intent.putExtra("topic_index", topicIndex);
+        startActivity(intent);
     }
 }
